@@ -37,4 +37,4 @@ using NoMercsDiamondVoiceLines; // The namespace of your mod class
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: MelonInfo(typeof(NoMercsDiamondVoiceLinesMod), "Mute Diamond Mercs", "0.0.1", "Sébastien Tromp")]
+[assembly: MelonInfo(typeof(NoMercsDiamondVoiceLinesMod), "Mute Diamond Mercs", "0.0.2", "Sébastien Tromp", "https://github.com/sebastientromp/hs-melon-hide-mercenary-emotes")]
